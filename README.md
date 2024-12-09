@@ -40,7 +40,7 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 
 ----------
 
-## **Our Approach**
+## **Methodology**
 
 ### **1. Data Understanding and Preparation**
 
@@ -60,6 +60,25 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 -   Used **K-nearest neighbors** for grouping and classification.
 -   Developed a collaborative filtering model leveraging **SVD** for advanced recommendations.
 -   Evaluated model accuracy using RMSE.
+
+----------
+
+## **Results and Key Findings**
+
+### **Model Insights**
+
+-   High accuracy with RMSE of **0.0852**.
+-   Semantic relationships effectively captured niche investor interests.
+
+### **Patterns**
+
+-   **Niche Focus Areas:** Investors matched to thematic ideas like AI, fintech, and sustainability.
+-   **Broad Investment Interests:** Overlap observed for versatile investors (e.g., Lair East Labs).
+
+### **Challenges and Learnings**
+
+-   Real-world NLP projects require thoughtful preprocessing and robust algorithms.
+-   Importance of maintaining data integrity for actionable results.
 
 ----------
 
@@ -139,25 +158,6 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 5.  **Download Outputs**
     
     -   Save the generated CSV file and visualizations to your local machine.
-
-----------
-
-## **Results and Key Findings**
-
-### **Model Insights**
-
--   High accuracy with RMSE of **0.0852**.
--   Semantic relationships effectively captured niche investor interests.
-
-### **Patterns**
-
--   **Niche Focus Areas:** Investors matched to thematic ideas like AI, fintech, and sustainability.
--   **Broad Investment Interests:** Overlap observed for versatile investors (e.g., Lair East Labs).
-
-### **Challenges and Learnings**
-
--   Real-world NLP projects require thoughtful preprocessing and robust algorithms.
--   Importance of maintaining data integrity for actionable results.
 
 ----------
 
