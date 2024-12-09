@@ -57,9 +57,9 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 ### **3. Modeling and Algorithms**
 
 -   Implemented **cosine similarity** for initial scoring.
--   Used **K-nearest neighbors** (KNN) for grouping and classification.
--   Developed a **collaborative filtering** model leveraging SVD for advanced recommendations.
--   Evaluated model accuracy using RMSE (0.0852).
+-   Used **K-nearest neighbors** for grouping and classification.
+-   Developed a collaborative filtering model leveraging **SVD** for advanced recommendations.
+-   Evaluated model accuracy using RMSE.
 
 ----------
 
@@ -151,7 +151,7 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 
 ### **Patterns**
 
--   **Niche Focus Areas:** Investors matched to thematic ideas like AI, fintech, or sustainability.
+-   **Niche Focus Areas:** Investors matched to thematic ideas like AI, fintech, and sustainability.
 -   **Broad Investment Interests:** Overlap observed for versatile investors (e.g., Lair East Labs).
 
 ### **Challenges and Learnings**
