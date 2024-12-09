@@ -36,54 +36,40 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
     
 3.  **Actionable Insights**  
     Recommendations prioritize efficiency, helping startups secure investments faster.
-    
 
-----------
+### **Methodology**
 
-## **Methodology**
-
-### **1. Data Understanding and Preparation**
-
+1. **Data Understanding and Preparation**
 -   Aggregated and cleaned investor data across two datasets, investors and ideas.
 -   Standardized text features using NLP preprocessing (tokenization, lemmatization, stop-word removal).
 -   Addressed missing values and ensured data consistency.
 
-### **2. Feature Engineering**
-
+2. **Feature Engineering**
 -   Generated embeddings using **Word2Vec** to capture semantic relationships.
 -   Applied one-hot encoding for categorical features.
 -   Standardized data for cosine similarity computations.
 
-### **3. Modeling and Algorithms**
-
+3. **Modeling and Algorithms**
 -   Implemented **cosine similarity** for initial scoring.
 -   Used **K-nearest neighbors** for grouping and classification.
 -   Developed a collaborative filtering model leveraging **SVD** for advanced recommendations.
 -   Evaluated model accuracy using RMSE.
 
-----------
+### **Results and Key Findings**
 
-## **Results and Key Findings**
-
-### **Model Insights**
-
+**Model Insights**
 -   High accuracy with RMSE of **0.0852**.
 -   Semantic relationships effectively captured niche investor interests.
 
-### **Patterns**
-
+**Patterns**
 -   **Niche Focus Areas:** Investors matched to thematic ideas like AI, fintech, and sustainability.
 -   **Broad Investment Interests:** Overlap observed for versatile investors (e.g., Lair East Labs).
 
-### **Challenges and Learnings**
-
+**Challenges and Learnings**
 -   Real-world NLP projects require thoughtful preprocessing and robust algorithms.
 -   Importance of maintaining data integrity for actionable results.
 
-----------
-
-## **Potential Next Steps**
-
+### **Potential Next Steps**
 - Expanding the Database: Incorporate global investor profiles to widen the matchmaking scope.
 - Integrating Feedback Loops: Allow users to provide input to refine and personalize recommendations over time.
 - Real-World Testing: Deploy the engine with startups to gather practical insights and refine algorithm performance.
