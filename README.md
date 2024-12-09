@@ -20,7 +20,6 @@ Welcome to the **SparkRockets Breakthrough Tech AI** repository! This project is
 ### **Objective**
 
 The primary goal of the **Startup Venture Capital Selector Engine** is to
-
 -   Provide startups with a curated list of venture capital firms aligned with their business goals.
 -   Enhance matchmaking accuracy using machine learning, NLP techniques, and data-driven insights.
 
@@ -66,6 +65,10 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 **Challenges and Learnings**
 -   Real-world NLP projects require thoughtful preprocessing and robust algorithms.
 -   Importance of maintaining data integrity for actionable results.
+
+### **Visualizations**
+
+![Screenshot 2024-12-08 180627](https://github.com/user-attachments/assets/df873b68-09fc-40ce-bc49-d210dc2afd7e)
 
 ### **Potential Next Steps**
 - Expanding the Database: Incorporate global investor profiles to widen the matchmaking scope.
