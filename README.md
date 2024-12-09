@@ -1,6 +1,6 @@
-# Sparkrockets-BTTAI: Venture Capital Selector Engine
+# SparkRockets Breakthrough Tech AI: Startup Venture Capital Selector Engine
 
-Welcome to the **Sparkrockets-BTTAI** repository! This project is an AI-powered matchmaking engine designed to connect startups with the most relevant venture capital investors, optimizing fundraising efforts through intelligent algorithms.
+Welcome to the **SparkRockets Breakthrough Tech AI** repository! This project is an AI-powered matchmaking engine designed to connect startups with the most relevant venture capital investors, optimizing fundraising efforts through intelligent algorithms.
 
 ----------
 
@@ -21,7 +21,7 @@ Welcome to the **Sparkrockets-BTTAI** repository! This project is an AI-powered 
 
 ### **Objective**
 
-The primary goal of this project is to
+The primary goal of the **Startup Venture Capital Selector Engine** is to
 
 -   Provide startups with a curated list of venture capital firms aligned with their business goals.
 -   Enhance matchmaking accuracy using machine learning, NLP techniques, and data-driven insights.
@@ -44,7 +44,7 @@ The primary goal of this project is to
 
 ### **1. Data Understanding and Preparation**
 
--   Aggregated and cleaned investor data across two datasets; investors and ideas.
+-   Aggregated and cleaned investor data across two datasets, investors and ideas.
 -   Standardized text features using NLP preprocessing (tokenization, lemmatization, stop-word removal).
 -   Addressed missing values and ensured data consistency.
 
