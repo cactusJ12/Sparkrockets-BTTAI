@@ -59,8 +59,8 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 -   Semantic relationships effectively captured niche investor interests.
 
 **Patterns**
--   **Niche Focus Areas:** Investors matched to thematic ideas like AI, fintech, and sustainability.
--   **Broad Investment Interests:** Overlap observed for versatile investors (e.g., Lair East Labs).
+-   Niche Focus Areas: Investors matched to thematic ideas like AI, fintech, and sustainability.
+-   Broad Investment Interests: Overlap observed for versatile investors (e.g., Lair East Labs).
 
 **Challenges and Learnings**
 -   Real-world NLP projects require thoughtful preprocessing and robust algorithms.
@@ -71,9 +71,9 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 ![Screenshot 2024-12-08 180627](https://github.com/user-attachments/assets/df873b68-09fc-40ce-bc49-d210dc2afd7e)
 
 ### **Potential Next Steps**
-- Expanding the Database: Incorporate global investor profiles to widen the matchmaking scope.
-- Integrating Feedback Loops: Allow users to provide input to refine and personalize recommendations over time.
-- Real-World Testing: Deploy the engine with startups to gather practical insights and refine algorithm performance.
+- **Expanding the Database:** Incorporate global investor profiles to widen the matchmaking scope.
+- **Integrating Feedback Loops:** Allow users to provide input to refine and personalize recommendations over time.
+- **Real-World Testing:** Deploy the engine with startups to gather practical insights and refine algorithm performance.
 
 ----------
 
