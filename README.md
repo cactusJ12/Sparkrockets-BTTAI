@@ -21,7 +21,7 @@ Welcome to the **Sparkrockets-BTTAI** repository! This project is an AI-powered 
 
 ### **Objective**
 
-The primary goal of Sparkrockets-BTTAI is to:
+The primary goal of this project is to
 
 -   Provide startups with a curated list of venture capital firms aligned with their business goals.
 -   Enhance matchmaking accuracy using machine learning, NLP techniques, and data-driven insights.
