@@ -7,13 +7,11 @@ Welcome to the **SparkRockets Breakthrough Tech AI** repository! This project is
 ## **Table of Contents**
 
 1.  [Project Overview](#project-overview)
-2.  [Our Approach](#our-approach)
-3.  [Installation](#installation)
-4.  [Usage](#usage)
-5.  [Results and Key Findings](#results-and-key-findings)
-6.  [Contributing](#contributing)
-7.  [License](#license)
-8.  [Credits and Acknowledgments](#credits-and-acknowledgments)
+2.  [Installation](#installation)
+3.  [Usage](#usage)
+4.  [Contributing](#contributing)
+5.  [License](#license)
+6.  [Credits and Acknowledgments](#credits-and-acknowledgments)
 
 ----------
 
