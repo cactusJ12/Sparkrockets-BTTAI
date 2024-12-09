@@ -25,28 +25,28 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 
 ### **Key Features**
 
-1.  **Comprehensive Investor Database**  
+**Comprehensive Investor Database**  
     Enriched profiles with geography, check size, funding stage, and more.
     
-2.  **Matchmaking Algorithm**  
+**Matchmaking Algorithm**  
     Intelligent pairing of business ideas with investors based on semantic similarity.
     
-3.  **Actionable Insights**  
+**Actionable Insights**  
     Recommendations prioritize efficiency, helping startups secure investments faster.
 
 ### **Methodology**
 
-1. **Data Understanding and Preparation**
+**Data Understanding and Preparation**
 -   Aggregated and cleaned investor data across two datasets, investors and ideas.
 -   Standardized text features using NLP preprocessing (tokenization, lemmatization, stop-word removal).
 -   Addressed missing values and ensured data consistency.
 
-2. **Feature Engineering**
+**Feature Engineering**
 -   Generated embeddings using **Word2Vec** to capture semantic relationships.
 -   Applied one-hot encoding for categorical features.
 -   Standardized data for cosine similarity computations.
 
-3. **Modeling and Algorithms**
+**Modeling and Algorithms**
 -   Implemented **cosine similarity** for initial scoring.
 -   Used **K-nearest neighbors** for grouping and classification.
 -   Developed a collaborative filtering model leveraging **SVD** for advanced recommendations.
