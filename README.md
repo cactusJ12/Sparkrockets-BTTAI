@@ -82,6 +82,14 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 
 ----------
 
+## **Potential Next Steps**
+
+- Expanding the Database: Incorporate global investor profiles to widen the matchmaking scope.
+- Integrating Feedback Loops: Allow users to provide input to refine and personalize recommendations over time.
+- Real-World Testing: Deploy the engine with startups to gather practical insights and refine algorithm performance.
+
+----------
+
 ## **Installation**
 
 ### Prerequisites
@@ -132,8 +140,6 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
     -   The notebook will generate:
         -   **Top-N Investor Matches:** A CSV file (`investor_matches.csv`) listing relevant investors for each business idea.
         -   **Visualizations:** Graphs showing similarity scores and matching patterns.
-
-----------
 
 ### Running the Model in Google Colab
 
