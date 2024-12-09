@@ -26,13 +26,13 @@ The primary goal of the **Startup Venture Capital Selector Engine** is to
 ### **Key Features**
 
 **Comprehensive Investor Database**  
-    Enriched profiles with geography, check size, funding stage, and more.
+- Enriched profiles with geography, check size, funding stage, and more.
     
 **Matchmaking Algorithm**  
-    Intelligent pairing of business ideas with investors based on semantic similarity.
+- Intelligent pairing of business ideas with investors based on semantic similarity.
     
 **Actionable Insights**  
-    Recommendations prioritize efficiency, helping startups secure investments faster.
+- Recommendations prioritize efficiency, helping startups secure investments faster.
 
 ### **Methodology**
 
